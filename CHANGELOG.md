@@ -1,3 +1,13 @@
+## 1.3.1-sas / 2022-05-10
+* [ENHANCEMENT] Update build #562
+* [ENHANCEMENT] Add elasticsearch_jvm_uptime gauge #537
+* [DOCUMENTATION] fix link to Helm chart and add example #534
+* [ENHANCEMENT] Add a common collector interface #521
+* [ENHANCEMENT] Cleanup non-standard ENV var setup #518
+* [ENHANCEMENT] Update process CPU metric #520 
+* [ENHANCEMENT] Remove non-existing CPU metrics #498
+* [ENHANCEMENT] Add support for search_query_current and indexing_index_current metrics #485
+
 ## 1.3.0 / 2021-10-21
 
 * [FEATURE] Add support for passing elasticsearch credentials via the ES_USERNAME and ES_PASSWORD environment varialbes #461
