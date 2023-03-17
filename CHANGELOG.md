@@ -1,3 +1,11 @@
+## 1.5.1-sas / 2022-03-17
+
+* [DOCUMENTATION] Update Readme for AWS Region #613
+* [FEATURE] Add https to metrics server #615
+* [ENHANCEMENT] number_of_replicas #483
+* [FEATURE] add ilm metrics #513
+* [FEATURE] Add support to assume an AWS role and renew expired credentials #653
+
 ## 1.5.0 / 2022-07-28
 
 * [FEATURE] Add metrics collection for data stream statistics #592
