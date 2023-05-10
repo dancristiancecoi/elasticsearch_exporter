@@ -1,3 +1,5 @@
+## 1.5.2-sas / 2022-03-17
+
 ## 1.5.1-sas / 2022-03-17
 
 * [DOCUMENTATION] Update Readme for AWS Region #613
